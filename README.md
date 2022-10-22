@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, this is my git repository 👋
 
-<!--
-**arfajarsetiaji/arfajarsetiaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Ar Fajar Setiaji, and here is some fact about me:<br>
+  <ul>
+    <li>I'm an Aquarian</li>
+    <li>I'm an Indonesian and living in Indonesia</li>
+    <li>I love to learn and I love to code</>
+  </ul>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfajarsetiaji&layout=compact)](https://github.com/arfajarsetiaji)
