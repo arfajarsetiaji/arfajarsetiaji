@@ -1,10 +1,11 @@
 ### Hi there, this is my git repository 👋
 
-<p>My name is Ar Fajar Setiaji, and here is some fact about me:<br>
+<p>Hey there, I'm Ar Fajar Setiaji, and here's a glimpse into who I am:<br>
   <ul>
-    <li>I'm an Aquarian</li>
-    <li>I'm an Indonesian and living in Indonesia</li>
-    <li>I love to learn and I love to code</>
+    <li>An Aquarian by the stars, navigating life's waves with curiosity. 🌊</li>
+		<li>An INTJ, diving into the depths of thought and strategy. 🤔</li>
+    <li>I'm Indonesian, happily residing in my homeland, Indonesia. 🇮🇩</li>
+    <li>I have a deep passion for learning and creating something. 📚 💻</>
   </ul>
 </p>
 
